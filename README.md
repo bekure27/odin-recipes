@@ -13,7 +13,7 @@
 
 👤 **Bekure**
 
-- GitHub: [@@bekure27](https://github.com/githubhandle)
+- GitHub: [@bekure27](https://github.com/githubhandle)
 - Twitter: [@bekure14](https://twitter.com/twitterhandle)
 
 
